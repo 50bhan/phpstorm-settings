@@ -6,6 +6,7 @@ com.chrisrm.idea.MaterialThemeUI
 com.dryabov.phpStorm.phpregexp
 com.intellij.ideolog
 com.kalessil.phpStorm.phpInspectionsEA
+com.mallowigi
 com.smartbit8.laravelStorm.intellij
 de.espend.idea.laravel
 de.espend.idea.php.annotation
