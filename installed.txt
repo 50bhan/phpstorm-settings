@@ -1,7 +1,5 @@
 BashSupport
-Mongo Plugin
 com.alicannklc.laravel.snippets
-com.bulenkov.idea.Idea11IconPack
 com.chrisrm.idea.MaterialThemeUI
 com.dryabov.phpStorm.phpregexp
 com.intellij.ideolog
@@ -12,8 +10,6 @@ de.espend.idea.laravel
 de.espend.idea.php.annotation
 de.espend.idea.php.toolbox
 fr.adrienbrault.idea.symfony2plugin
-krasa.IdeaIconPack
-lermitage.intellij.extra.icons
 lv.midiana.misc.phpstorm-plugins.deep-keys
 mobi.hsz.idea.gitignore
 net.king2500.plugins.PhpAdvancedAutoComplete
