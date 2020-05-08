@@ -3,7 +3,7 @@
     <property name="created">2019-02-22T16:16:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2020-04-16T21:15:23</property>
+    <property name="modified">2020-05-07T20:33:04</property>
     <property name="originalScheme">Photon - Light</property>
   </metaInfo>
   <colors>
@@ -439,6 +439,7 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="cc6666" />
+        <option name="ERROR_STRIPE_COLOR" value="cc6666" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -550,6 +551,7 @@
       <value>
         <option name="FOREGROUND" value="888888" />
         <option name="EFFECT_COLOR" value="555555" />
+        <option name="ERROR_STRIPE_COLOR" value="555555" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -639,6 +641,7 @@
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="dddddd" />
+        <option name="ERROR_STRIPE_COLOR" value="dddddd" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -652,13 +655,15 @@
         <option name="FOREGROUND" value="808080" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="555555" />
+        <option name="ERROR_STRIPE_COLOR" value="555555" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="cc6666" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="cc6666" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -674,6 +679,7 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="cc6666" />
+        <option name="ERROR_STRIPE_COLOR" value="cc6666" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>

@@ -4,12 +4,13 @@
     <property name="created">2018-10-06T18:18:04</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2020-04-19T16:58:01</property>
+    <property name="modified">2020-05-07T21:03:03</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono Medium" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
@@ -2279,6 +2280,12 @@
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="12404b" />
+      </value>
+    </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="72737a" />
+        <option name="ERROR_STRIPE_COLOR" value="72737a" />
       </value>
     </option>
     <option name="Number">
