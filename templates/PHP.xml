@@ -23,4 +23,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="test" value="/** @test **/&#10;public function it_$methodName$(): void&#10;{&#10;    $END$&#10;}" description="Add phpunit test method" toReformat="false" toShortenFQNames="true">
+    <variable name="methodName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
