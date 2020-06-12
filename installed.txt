@@ -6,7 +6,6 @@ com.intellij.ideolog
 com.kalessil.phpStorm.phpInspectionsEA
 com.mallowigi
 com.smartbit8.laravelStorm.intellij
-com.tabnine.TabNine
 de.espend.idea.laravel
 de.espend.idea.php.annotation
 de.espend.idea.php.toolbox
