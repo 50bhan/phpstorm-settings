@@ -8,6 +8,7 @@
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Customized" />
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="15" />
     <option name="FONT_FAMILY" value="JetBrains Mono Medium" />
