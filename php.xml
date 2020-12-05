@@ -2,7 +2,7 @@
   <component name="PhpAutoImport" auto_import_file_scope="true" />
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="1bfa60cb-8ebf-49bc-9a36-443afaa484d7" name="PHP 7.4" home="/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="989d9196-8298-4b96-943e-59396a823680" name="PHP 7.4" home="/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
