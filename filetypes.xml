@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="init" type="PLAIN_TEXT" />
       <mapping pattern="script.js" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
