@@ -4,6 +4,9 @@
       <sshConfig host="18.198.142.79" id="6290f9c9-ab9e-44ee-90f6-d2eec221045f" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="NB Staging" nameFormat="CUSTOM" username="ssharifi">
         <option name="customName" value="NB Staging" />
       </sshConfig>
+      <sshConfig host="3.124.190.178" id="47d7f1b3-4b5c-43e5-93fb-12236ea431ae" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="NB Production" nameFormat="CUSTOM" username="ssharifi">
+        <option name="customName" value="NB Production" />
+      </sshConfig>
     </configs>
   </component>
 </application>
