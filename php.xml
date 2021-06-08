@@ -1,0 +1,8 @@
+<application>
+  <component name="PhpAutoImport" auto_import_file_scope="true" />
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="a734a716-d665-40b2-bd53-83f8c1286e81" name="PHP 8.0" home="/usr/local/Cellar/php/8.0.1_1/bin/php" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
+</application>

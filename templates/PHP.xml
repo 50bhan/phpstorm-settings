@@ -1,0 +1,32 @@
+<templateSet group="PHP">
+  <template name="cls" value="class $NAME$ {&#10;        $END$&#10;}" description="Create a new class" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="tryc" value="try {        &#10;    $END$&#10;} catch (Exception $ex) {&#10;    &#10;}" description="Try &amp; Catch Block" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="_c" value="public function __construct($PARAMETERS$)&#10;{&#10;    $END$&#10;}" description="Create a constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="for" value="for ($i = 0 ; $i &lt; $VAR_VALUE$ ; $i++) {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="test" value="/** @test **/&#10;public function it_$methodName$(): void&#10;{&#10;    $END$&#10;}" description="Add phpunit test method" toReformat="false" toShortenFQNames="true">
+    <variable name="methodName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
