@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="script.js" type="PLAIN_TEXT" />
       <mapping pattern=".env.bkp" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="bkp" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
