@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="script.js" type="PLAIN_TEXT" />
+      <mapping pattern="enabled_plugins" type="AUTO_DETECTED" />
       <mapping pattern=".env.bkp" type="PLAIN_TEXT" />
+      <mapping pattern="script.js" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="bkp" type="PLAIN_TEXT" />
