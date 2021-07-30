@@ -5,6 +5,7 @@
         <option name="suppressed">
           <set>
             <option value="decision is made" />
+            <option value="But" />
           </set>
         </option>
       </SuppressingContext>
