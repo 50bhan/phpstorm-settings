@@ -10,6 +10,9 @@
       <sshConfig host="bastion-staging.virta-ev.com" id="44e05102-0a1a-40d3-bd58-2cbc3eb54fb0" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Virta Staging" nameFormat="CUSTOM" username="sobhan.sharifi">
         <option name="customName" value="Virta Staging" />
       </sshConfig>
+      <sshConfig host="bastion.virta-ev.com" id="46f0d39d-f3f8-4c67-bcc8-d1598bc941d2" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Virta Production" nameFormat="CUSTOM" username="sobhan.sharifi">
+        <option name="customName" value="Virta Production" />
+      </sshConfig>
     </configs>
   </component>
 </application>
