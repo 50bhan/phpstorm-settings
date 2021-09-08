@@ -7,6 +7,9 @@
       <sshConfig host="3.124.190.178" id="47d7f1b3-4b5c-43e5-93fb-12236ea431ae" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="NB Production" nameFormat="CUSTOM" username="ssharifi">
         <option name="customName" value="NB Production" />
       </sshConfig>
+      <sshConfig host="bastion-staging.virta-ev.com" id="44e05102-0a1a-40d3-bd58-2cbc3eb54fb0" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Virta Staging" nameFormat="CUSTOM" username="sobhan.sharifi">
+        <option name="customName" value="Virta Staging" />
+      </sshConfig>
     </configs>
   </component>
 </application>
