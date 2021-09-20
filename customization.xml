@@ -1,21 +1,6 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="AtomFileIcons.Actions" is_group="true" action_type="-1" position="15">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="tasks.toolbar" is_group="true" action_type="-1" position="14">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="SearchEverywhere" is_action="true" action_type="-1" position="13">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RunAnything" is_action="true" action_type="-1" position="12">
+    <group value="AtomFileIcons.Actions" is_group="true" action_type="-1" position="14">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
