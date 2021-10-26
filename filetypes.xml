@@ -7,6 +7,7 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="bkp" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
