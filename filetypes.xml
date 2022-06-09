@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="enabled_plugins" type="AUTO_DETECTED" />
+      <mapping pattern="down" type="AUTO_DETECTED" />
       <mapping pattern=".env.bkp" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="script.js" type="PLAIN_TEXT" />
