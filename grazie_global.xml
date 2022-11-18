@@ -4,8 +4,9 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="decision is made" />
             <option value="But" />
+            <option value="decision is made" />
+            <option value="(" />
           </set>
         </option>
       </SuppressingContext>
