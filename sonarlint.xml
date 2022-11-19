@@ -1,0 +1,25 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="rulesByKey">
+      <map>
+        <entry key="php:S1808">
+          <value>
+            <Rule active="false" key="php:S1808" />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.dev.virta.global" />
+          <token>df9adf9bdf99df92df93dfccdfc9dfcbdf9bdfc8dfcbdf92dfc8df93df9bdf99df9edfccdf9adf9ddf9ddf9cdf98df9fdf98dfcfdf98df99df9adfcedf9bdf9cdfcedfcbdfcedf9bdf92dfc9df99dfcc</token>
+          <option name="name" value="Core-api" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules>
+      <Rule active="false" key="php:S1808" />
+    </rules>
+  </component>
+</application>
