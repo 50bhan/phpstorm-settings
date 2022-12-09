@@ -12,7 +12,10 @@
       <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="5.1.46" />
     </driver>
     <driver id="mysql_aurora">
-      <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="2.7.3" />
+      <artifact id="MariaDB Connector J" name="MariaDB Connector J" channel="MariaDB_2.X" rolling="true" use="true" version="2.7.3" />
+    </driver>
+    <driver id="postgresql">
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.5.0" />
     </driver>
   </component>
 </application>
